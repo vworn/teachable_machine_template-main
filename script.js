@@ -49,3 +49,5 @@ function gotResult(results) {
   // Update label variable which is displayed on the canvas
   label = results[0].label;
 }
+
+//Added new url for image model
